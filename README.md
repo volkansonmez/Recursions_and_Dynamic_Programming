@@ -1,4 +1,4 @@
-# Dynamic Programming 1
+# Dynamic Programming 
 Beginner, Intermediate, and Advanced Level Examples (Recursions and Dynamic Programming) 
 
 
